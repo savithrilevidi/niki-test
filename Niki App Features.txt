@@ -1,0 +1,15 @@
+Niki App Features:
+
+1. Username required to start chat:
+   - Username can be alphanumeric, special characters  
+   - Username cannot be empty
+   - There is no fixed character length
+   
+2. Chat Screen:
+   - By default there would be group chat
+   - On clicking on add icon you should be able to create private or group chat
+   
+3. Chat Display: 
+   - On selecting group or private chat created you should be able to redirect to related chat page
+   - You should be able to send messages and also receive the message.
+   - In the group or private chat the person if he is online should able to see green dot symbol which indicates user in online.
